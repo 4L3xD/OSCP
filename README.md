@@ -1,2 +1,4 @@
 # OSCP
-My notes
+
+
+[Information Gathering](/docs/information-gathering.md)
